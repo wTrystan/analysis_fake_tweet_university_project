@@ -1,2 +1,2 @@
 # analysis_fake_tweet_university_project
-XXX
+Determination of the veracity of information from various newspapers in two classes: Real News and Fake News
